@@ -1,67 +1,88 @@
 # ⚔️ Incoming Attack Calculator
 
-A mobile-friendly Discord timestamp and defense call generator for strategy games like Thronewake.
-
-## ✨ Features
-- Generate Discord live countdown timers
-- Automatic timezone conversion
-- Quick add buttons (+1h, +30m, etc.)
-- Defense Call Maker
-- Mobile & desktop friendly
-- Easy copy/paste into Discord
-
-## 🚀 How To Use
-
-### Attack Calculator
-1. Enter:
-   - `2h 30 min`
-   OR
-   - exact server landing time (`16:42`)
-2. Click:
-   `Generate Discord Timer`
-3. Open:
-   `Defense Call Maker`
-
-### Defense Call Maker
-Fill in:
-- attacker
-- village
-- waves
-- watch tower
-- defense
-- food
-- granary
-- troops needed
-
-Then click:
-`Generate Defense Report`
-
-Copy the result directly into Discord.
-
-## 🌍 Discord Timestamp Support
-
-Uses Discord native timestamps:
-```txt
-<t:UNIX:F>
-<t:UNIX:R>
-```
-
-Everyone automatically sees:
-- their own local time
-- live countdown timer
-
-## 🛠️ Built With
-- HTML
-- CSS
-- JavaScript
-- GitHub Pages
-
-## 📱 Responsive
-Works on:
-- mobile
-- tablet
-- desktop
+> 🛡️ A clean and mobile-friendly Discord timestamp & defense coordination tool for browser games.
 
 ---
 
-Made for alliance coordination & fast defense calls ⚔️
+## ✨ Features
+
+✅ Accurate Discord timestamp generator  
+✅ Live countdown preview  
+✅ Automatic local timezone conversion  
+✅ Mobile & desktop optimized  
+✅ Automatic clipboard copy  
+✅ Clean responsive UI  
+✅ No backend required  
+✅ GitHub Pages ready  
+
+---
+
+## ⚡ Quick Add Buttons
+
+### 🔵 Hours
+- +1h
+- +2h
+- +3h
+- +6h
+
+### 🟣 Minutes
+- +1m
+- +5m
+- +10m
+- +30m
+
+### 🔴 Seconds
+- +1s
+- +5s
+- +10s
+- +20s
+
+---
+
+## 🕒 Landing Day Support
+
+Choose:
+- 📅 Today
+- 🌙 Tomorrow
+- ➕ +2 Days
+- ➕ +3 Days
+
+Perfect for:
+- long-distance attacks
+- chief trains
+- overnight operations
+- artifact wars
+
+---
+
+## 🛡️ Defense Call Maker
+
+Generate complete alliance defense reports including:
+
+- 👤 Attacker
+- 🏛️ Target village
+- 🌊 Incoming waves
+- 🗼 Watch Tower level
+- 🌾 Food situation
+- 🏦 Granary capacity
+- 🛡️ Current defense
+- ⚔️ Extra troops needed
+
+---
+
+## 🌍 How It Works
+
+1️⃣ Enter the exact landing time  
+2️⃣ Select the landing day  
+3️⃣ Generate Discord Timer  
+4️⃣ Paste directly into Discord  
+
+Everyone automatically sees:
+- 🕒 their own local landing time
+- ⏳ a live countdown
+
+---
+
+## 🚀 GitHub Pages Setup
+
+Upload:
