@@ -82,7 +82,3 @@ Everyone automatically sees:
 - ⏳ a live countdown
 
 ---
-
-## 🚀 GitHub Pages Setup
-
-Upload:
